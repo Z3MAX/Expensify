@@ -1,0 +1,8 @@
+﻿Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-JWT-Extended==4.5.2
+pandas==2.1.4
+requests==2.31.0
+openpyxl==3.1.2
+werkzeug==3.0.1
+python-dotenv==1.0.0
